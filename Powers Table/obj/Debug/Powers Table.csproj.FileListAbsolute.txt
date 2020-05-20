@@ -1,0 +1,6 @@
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 3 Powers Table Refactor\Powers Table\Powers Table\bin\Debug\Powers Table.exe.config
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 3 Powers Table Refactor\Powers Table\Powers Table\bin\Debug\Powers Table.exe
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 3 Powers Table Refactor\Powers Table\Powers Table\bin\Debug\Powers Table.pdb
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 3 Powers Table Refactor\Powers Table\Powers Table\obj\Debug\Powers Table.csprojResolveAssemblyReference.cache
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 3 Powers Table Refactor\Powers Table\Powers Table\obj\Debug\Powers Table.exe
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 3 Powers Table Refactor\Powers Table\Powers Table\obj\Debug\Powers Table.pdb
